@@ -1,0 +1,17 @@
+notes
+Step 7: Run the Spring Web App - ObjectDB
+
+https://www.objectdb.com/tutorial/jpa/eclipse/spring/project
+
+buscar el arquetipo
+org.apache.maven.archetypes      maven-archetype-webapp
+
+group id = Guestbook
+artifact id = Guestbook
+
+package guest
+
+
+Note: You should verify now that Maven Integration for WTP is installed, 
+by right clicking the project node and checking that the Run As > Run on Server 
+
