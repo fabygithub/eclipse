@@ -1,7 +1,7 @@
+https://www.objectdb.com/tutorial/jpa/eclipse/spring/project
+
 notes
 Step 7: Run the Spring Web App - ObjectDB
-
-https://www.objectdb.com/tutorial/jpa/eclipse/spring/project
 
 buscar el arquetipo
 org.apache.maven.archetypes      maven-archetype-webapp
@@ -14,4 +14,29 @@ package guest
 
 Note: You should verify now that Maven Integration for WTP is installed, 
 by right clicking the project node and checking that the Run As > Run on Server 
+
+http://localhost:8080/Guestbook/
+
+open is system explorer
+se copia y se pega 
+y se empieza a descargar todo
+
+
+Right click the project node (in the [Package Explorer] window), 
+
+select New > Source Folder, enter src/main/java as Folder Name and click Finish.
+
+Getting error "The folder is already a source folder" when linking source in Eclipse
+mover la carpeta a main
+
+hay que crear un nuevo source folder
+
+
+
+
+
+
+
+
+
 
