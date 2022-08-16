@@ -60,6 +60,27 @@ http/1.1 port 8080
 lo que inicia el tomcat
 es el jsp
 
+http://localhost:8080/DynamicWeb/view/becas.jsp
+http://localhost:8080/DynamicWeb/view/index.jsp
+http://localhost:8080/DynamicWeb/view/head.jsp
+http://localhost:8080/DynamicWeb/view/nav.jsp
+
+java.lang.NoClassDefFoundError: javax/servlet/jsp/tagext/TagLibraryValidator
+ 
+I had a similar problem, I am using Tomcat 10. 
+I was getting this error using Apache NetBeans 12.3 IDE.
+
+https://www.youtube.com/watch?v=BYesEMMXWXc&ab_channel=CoderHub
+
+https://www.youtube.com/watch?v=BYesEMMXWXc&ab_channel=CoderHub
+
+add in libraries 
+jakarta
+copy and paste 
+
+
+
+
 
 
 
