@@ -1,2 +1,65 @@
 The superclass "javax.servlet.http.HttpServlet" was not found on the Java Build Path
 
+Add a runtime first and select project properties. 
+Then check the server name from the 'Runtimes' tab as shown in the image.
+
+project facets
+runtime
+
+https://www.youtube.com/watch?v=E2eViODDSnU&ab_channel=jinujawadm
+tageted runtime
+
+module path
+
+The import javax.servlet can't be resolved [duplicate]
+servlet-api.jar
+
+http://www.java2s.com/Code/Jar/j/Downloadjspapi21jar.htm
+javax.servlet.jsp.JspException cannot be resolved to a type
+jsp-api.jar
+
+
+Estado HTTP 404 – No encontrado
+Tipo Informe de estado
+
+Descripción El recurso requerido no está disponible.
+
+Apache Tomcat/10.0.23
+
+Tomcat- El recurso requerido no esta disponible
+Solucion al error 404 de APACHE TOMCAT
+
+servicios
+iniciar apache tomcat 10
+
+http://localhost:8080/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
