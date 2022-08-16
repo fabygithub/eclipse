@@ -1,0 +1,28 @@
+solo hay que esperar que cargue
+how to run maven project in eclipse
+
+https://www.youtube.com/watch?v=H35w2V2V-Nk&ab_channel=AutomationStepbyStep
+Re-run Maven using the -X switch to enable full debug logging.
+
+https://github.com/MicrosoftDocs/azure-docs/issues/43697
+Run Tomcat with Maven and Eclipse - Unknown lifecycle phase
+
+MAVEN/MojoExecutionException
+MAVEN/Lifecycle Phase Not Found Exception
+
+https://teamtreehouse.com/library/building-lifecycles-and-plugins
+Fix Maven error in Eclipse: No compiler is provided in this environment
+
+Failed to execute goal org.apache.maven.plugins:maven-resources-plugin:3.2.0:resources
+
+
+
+
+
+
+
+
+
+
+
+
